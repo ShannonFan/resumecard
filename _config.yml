@@ -31,8 +31,8 @@ author:
       company: HSBC(Hong Kong and Shanghai Banking Coporate)
       location: Shanghai, China
       title: Summer Intern, Commercial Banking (CMB)
-      started: 2014
-      duration: (2014 - Present)
+      started: 2016
+      duration: (2016.07 - 2016.08)
       description: 1. Presented new structured investment products (SIPs) with PPT slides of clear facts and charts to support relation managers to launch new SIPs pilot program and sales campaign. Worked with relation managers to follow 20+ sales pipelines. 2.Created an Excel tool to calculate customers’ monthly transaction volume and value by a click, reducing the time of relation managers in our team when reviewing customer profiles. 3. Delivered daily morning briefing, summarizing global financial data and news from various resources to keep RMs informed of market trends. 4. Conducted a research on 100+ corporate financial products of HSBC’s major competitors to prepare for new product launching.
     - work2:
       company: DELOITTE
@@ -50,20 +50,20 @@ author:
       description: 1. Collected and analyzed media coverage data for a client and its major competitors. Completed media coverage reports and competitor analysis reports to identify brand awareness trend as well as track audience’s reaction to some certain events. 2. Extracted key information and drafted storylines of two commercial real estate projects to prepare a client for press meeting. 3.Assisted in delivering an annual report release for a client by enlisting influential financial media and bloggers to drive conversation.
   educationHistory:
     - education1:
-      organization: Northeastern University
-      location: Shenyang, China
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      organization: University of Michigan, Ann Arbor
+      location: Ann Arbor, Michigan, United States
+      degree: Master
+      major: Applied Economics
+      started: 2015
+      duration: (2015.9 - 2016.12)
+      description: Course Highlights - Financial Derivatives, Big Data Analysis, Econometrics, Statistics for Finance Data, Accounting Principles, Project Management
   languages:
     - language1:
       name: Chinese
       proficiency: Native
     - language2:
       name: English
-      proficiency: Professional
+      proficiency: Fluent
     - language3:
       name: Japanese
       proficiency: Limit
