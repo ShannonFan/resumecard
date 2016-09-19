@@ -89,6 +89,47 @@ layout: default
                     {% endfor %}
                 </ul>
             {% endif %}
+            {% if site.author.studentActivity %}
+                <h3 class="title with-icon"><span class="glyphicon glyphicon-plane cat-title"></span>Student Leadership</h3>
+                <ul class="timeline">
+                    {% for activity in site.author.studentActivity %}
+                        <li class="timeline-inverted">
+                            {% if activity.started %}
+                                <div class="timeline-badge info">{{ activity.started }}</div>
+                            {% endif %}
+                            <div class="timeline-panel grid-block">
+                                <div class="timeline-heading">
+                                    {% if activity.organization %}
+                                        <h4 class="timeline-title">{{ activity.organization }} </h4>
+                                    {% endif %}
+                                    <p>
+                                        <small class="text-muted">
+                                            {% if activity.title %}
+                                                {{ activity.title }}
+                                            {% endif %}
+                                        </small>
+                                    </p>
+                                    <p>
+                                        <small class="text-muted">
+                                            {% if activity.duration %}
+                                                <i class="fa fa-calendar"></i> {{ activity.duration }} |
+                                            {% endif %}
+                                            {% if activity.location %}
+                                                <i class="fa fa-map-marker"></i>  {{ activity.location }}
+                                            {% endif %}
+                                        </small>
+                                    </p>
+                                </div>
+                                <div class="timeline-body">
+                                    {% if activity.description %}
+                                        <p>{{ activity.description }}</p>
+                                    {% endif %}
+                                </div>
+                            </div>
+                        </li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
         </div>
         <div class="col-md-4">
             {% if site.author.stackoverflow or site.author.programmingSkills %}
