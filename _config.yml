@@ -98,11 +98,14 @@ author:
       name: Quantative Analytics (Using Stata and R)
       percentage: 100%
     - skill3: 
+      name: Data Visualizatin
+      percentage: 100%
+    - skill4: 
       name: Communication and Storytelling
       percentage: 100%
-    - skill4:
+    - skill5:
       name: Graphic Design (Using Adobe Photoshop)
       percentage: 100%
-    - skill5:
+    - skill6:
       name: Music and Performance
       percentage: 100%
