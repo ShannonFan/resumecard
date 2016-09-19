@@ -56,7 +56,15 @@ author:
       major: Applied Economics
       started: 2015
       duration: (2015.9 - 2016.12)
-      description: Course Highlights - Financial Derivatives, Big Data Analysis, Econometrics, Statistics for Finance Data, Accounting Principles, Project Management
+      description: Course Highlights - Quantative Methods, Financial Derivatives, Big Data Analysis, Econometrics, Statistics for Finance Data, Accounting Principles, Project Management
+    - education2:
+      organization: Tsinghua University
+      location: Beijing, China
+      degree: Bachelor
+      major: English Language and Literature
+      started: 2011
+      duration: (2011.9 - 2015.7)
+      description: With a dual Bachelor's degree in Economics. Obtained Certificate of Test for English Majors-Band 8.
   languages:
     - language1:
       name: Chinese
