@@ -75,7 +75,7 @@ author:
     - language3:
       name: Japanese
       proficiency: Limit
-  Skills:
+  programmingSkills:
     - skill1:
       name: Microsoft Office
       percentage: 100%
