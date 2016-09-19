@@ -14,23 +14,23 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
+  name: Shannon Fan
+  title: Graduate Student at University of Michigan, Ann Arbor
+  address: Ann Arbor, Michigan
+  email: xiaoy@umich.edu
+  link: https://ShannonFan.github.io/resumecard
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
+  github: ShannonFan
+  linkedin: xiaoxiao-fan-5a8b839b
   twitter: ddbullfrog
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: Finzsoft Solutions Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
+      company: HSBC(Hong Kong and Shanghai Banking Coporate)
+      location: Shanghai, China
+      title: Summer Intern, Commercial Banking (CMB)
       started: 2014
       duration: (2014 - Present)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
