@@ -82,8 +82,8 @@ author:
     - skill2:
       name: Quantative Analytics (Using Stata and R)
       percentage: 90%
-    - skill3: Communication and Storytelling
-      name: JavaScript
+    - skill3: 
+      name: Communication and Storytelling
       percentage: 90%
     - skill4:
       name: Graphic Design (Using Adobe Photoshop)
